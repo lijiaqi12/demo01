@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3cfe95bc-eb58-427d-bb7d-91bb8ee10511" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/priv/jesse/mall/dao/HBaseDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/priv/jesse/mall/dao/HDFSDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/priv/jesse/mall/service/HBaseService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/priv/jesse/mall/service/HDFSService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/priv/jesse/mall/service/impl/HBaseServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/priv/jesse/mall/service/impl/HDFSServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/priv/jesse/mall/utils/TimeUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_10.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/priv/jesse/mall/entity/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priv/jesse/mall/entity/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/priv/jesse/mall/entity/log/OrderLogs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/priv/jesse/mall/entity/log/ShoppingLogs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priv/jesse/mall/entity/log/ShoppingLogs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/priv/jesse/mall/service/AdminUserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priv/jesse/mall/service/AdminUserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/priv/jesse/mall/service/HdfsService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/priv/jesse/mall/service/impl/HdfsServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/priv/jesse/mall/web/user/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priv/jesse/mall/web/user/OrderController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/priv/jesse/mall/web/user/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priv/jesse/mall/web/user/ProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/mall/product/info.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/mall/product/info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/priv/jesse/mall/entity/Order.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/priv/jesse/mall/entity/Order.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/priv/jesse/mall/entity/log/ShoppingLogs.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/priv/jesse/mall/entity/log/ShoppingLogs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/priv/jesse/mall/web/user/OrderController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/priv/jesse/mall/web/user/OrderController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/priv/jesse/mall/web/user/ProductController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/priv/jesse/mall/web/user/ProductController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/mall/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/mall/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/mall/product/info.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/mall/product/info.html" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="278klCvz0mJvbHGrcHSTjfewu6I" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/师大spark实训/1.项目资料/项目前后端代码/mall" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="vcs.Subversion" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\workspace-devloper\mall\src\main\java\priv\jesse\mall\service\impl" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.MallApplication">
+    <configuration name="HDFSServiceImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="priv.jesse.mall.service.impl.HDFSServiceImpl" />
+      <module name="mall" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="priv.jesse.mall.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TimeUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="priv.jesse.mall.utils.TimeUtils" />
+      <module name="mall" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="priv.jesse.mall.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="priv.jesse.mall.test" />
+      <module name="mall" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="priv.jesse.mall.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MallApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mall" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="priv.jesse.mall.MallApplication" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HDFSServiceImpl" />
+        <item itemvalue="Application.TimeUtils" />
+        <item itemvalue="Application.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\DELL\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="E:\workspace-devloper\mall" />
+          <option name="myCopyRoot" value="E:\workspace-devloper\mall" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="E:\workspace-devloper\mall" />
+          <option name="myCopyRoot" value="E:\workspace-devloper\mall" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3cfe95bc-eb58-427d-bb7d-91bb8ee10511" name="Default Changelist" comment="" />
+      <created>1648709248133</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648709248133</updated>
+      <workItem from="1648709251491" duration="831000" />
+      <workItem from="1648710144520" duration="27812000" />
+      <workItem from="1648741084869" duration="4118000" />
+      <workItem from="1648784842468" duration="33000" />
+      <workItem from="1648797119449" duration="218000" />
+      <workItem from="1648893447284" duration="2721000" />
+      <workItem from="1648910679669" duration="21000" />
+      <workItem from="1648952119480" duration="3853000" />
+      <workItem from="1648956139981" duration="4306000" />
+      <workItem from="1648960524739" duration="6000" />
+      <workItem from="1649046042704" duration="45000" />
+      <workItem from="1649053391329" duration="4162000" />
+      <workItem from="1649059281021" duration="823000" />
+      <workItem from="1649064591684" duration="3006000" />
+      <workItem from="1649639508116" duration="645000" />
+      <workItem from="1649663855579" duration="1474000" />
+      <workItem from="1649670151002" duration="103000" />
+      <workItem from="1649671273220" duration="279000" />
+      <workItem from="1649745128898" duration="10000" />
+      <workItem from="1649749539168" duration="703000" />
+      <workItem from="1649822601303" duration="349000" />
+      <workItem from="1649832588534" duration="166000" />
+      <workItem from="1649841099162" duration="678000" />
+      <workItem from="1649856372401" duration="802000" />
+      <workItem from="1649897231019" duration="135000" />
+      <workItem from="1651113439282" duration="5286000" />
+      <workItem from="1651653447950" duration="783000" />
+      <workItem from="1651909111948" duration="602000" />
+      <workItem from="1652007064949" duration="6000" />
+      <workItem from="1652056757980" duration="2002000" />
+      <workItem from="1652066816210" duration="3908000" />
+      <workItem from="1652138919788" duration="21487000" />
+      <workItem from="1652194026653" duration="5000" />
+      <workItem from="1652226162070" duration="13126000" />
+    </task>
+    <task id="LOCAL-00001" summary="jgsifhs">
+      <created>1652067637441</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1652067637441</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="jgsifhs" />
+    <option name="LAST_COMMIT_MESSAGE" value="jgsifhs" />
+  </component>
+</project>

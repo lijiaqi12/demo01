@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/../../sprinmvc/springmvc_ssm" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../../sprinmvc/springmvc_ssm/pom.xml" />
+        <option value="$PROJECT_DIR$/../../springboot_02/pom.xml" />
+        <option value="$PROJECT_DIR$/../../BookStore/pom.xml" />
+        <option value="$PROJECT_DIR$/../../mybatisplus/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8 (6)" project-jdk-type="JavaSDK" />
+</project>
